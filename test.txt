@@ -1,1 +1,3 @@
-Hey what's up! Hope you're doing well. What's new with you? This is an example to test out rebasing and working with git. Going to create some merge conflicts and CHAOS.
+YO what's up! Hope you're doing well. What's new with you? 
+
+This is an example to test out rebasing and working with git. Going to create some merge conflicts and CHAOS.
